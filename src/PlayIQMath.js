@@ -111,7 +111,7 @@ export default function PlayIQMath() {
   return (
     <div
       className="p-4 sm:p-2 w-full min-h-screen flex flex-col items-center justify-center text-center bg-green-200 relative"
-      style={{ backgroundImage: 'url(https://i.imgur.com/ugUqvqT.png)', backgroundSize: 'cover' }}
+      style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1599058917212-d750089bc635?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80)', backgroundSize: 'cover' }}
     >
       <h1 className="text-3xl sm:text-2xl font-bold mb-4 text-white drop-shadow">⚽ PlayIQ: Math Module</h1>
       {renderContent()}
